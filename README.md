@@ -44,3 +44,24 @@ What is the value of: 0 === false?
 What is the value of: 0 != false?
 What is the value of 0 !== false?
 Use the code above to test and print the results.
+
+//---------------------------------------------------------------------
+
+## Exercise 1
+Initialize an integer to represent a favorite number and assign a value with a number of your choosing or you can assign a random number to this variable.
+
+Use window.prompt() to ask the user to input a number, and store the result in a variable
+
+Create an if-statement that if the guessed number is below the initial value, print out “too low”.
+
+Create an else-if statement that if the number is higher than the initial value, print out “too high”.
+
+Create an else statement that prints out “Congratulations!!!”.
+
+## Exercise 2
+Declare a variable named userInput2 (or whatever topic you’ll ask about) and set the value to window.prompt(“Whatever question you want to ask here”).
+
+Inside of the parentheses, ask a question on whatever (appropriate) topic you’d like.
+
+Create a switch-case statement with 5+ cases and a default case.
+Log a response to the console depending on the value of userInput2.
