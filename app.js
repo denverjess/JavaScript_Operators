@@ -12,12 +12,12 @@
 
 //------------------------------
 
-let a = 11;
-let str = "11";
-let str2 = "eleven";
-let isPresent = true;
-let firstName = "Jackie";
-let lastName = "Chan";
+// let a = 11;
+// let str = "11";
+// let str2 = "eleven";
+// let isPresent = true;
+// let firstName = "Jackie";
+// let lastName = "Chan";
 
 //console.log(a + str);
 //console.log(a + str2);
